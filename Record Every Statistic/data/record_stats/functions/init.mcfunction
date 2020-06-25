@@ -644,7 +644,7 @@ scoreboard objectives add rs_c.yelwool minecraft.crafted:minecraft.yellow_wool "
 #Custom
 scoreboard objectives add rs_cu.bellring minecraft.custom:minecraft.bell_ring "Bells Rung"
 scoreboard objectives add rs_cu.boat minecraft.custom:minecraft.boat_one_cm "Boat One Cm"
-scoreboard objectives add rs_cu.shulkclean minecraft.custom:minecraft.clean_shulker_box "Shuker Boxes Cleaned"
+scoreboard objectives add rs_cu.shulkclean minecraft.custom:minecraft.clean_shulker_box "Shulker Boxes Cleaned"
 scoreboard objectives add rs_cu.climb1cm minecraft.custom:minecraft.climb_one_cm "Climb One Cm"
 scoreboard objectives add rs_cu.shift1cm minecraft.custom:minecraft.crouch_one_cm "Crouch One Cm"
 scoreboard objectives add rs_cu.dmgabsorb minecraft.custom:minecraft.damage_absorbed "Damage Absorbed"
