@@ -1,5 +1,6 @@
 {
     "values": [
+        "main:init",
         "record_stats:init"
     ]
 }
