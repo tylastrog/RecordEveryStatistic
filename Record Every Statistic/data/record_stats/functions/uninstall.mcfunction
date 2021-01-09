@@ -69,9 +69,11 @@ scoreboard objectives remove g.xp
 scoreboard objectives remove g.playMinutes 
 scoreboard objectives remove g.play 
 scoreboard objectives remove g.playTick 
-scoreboard objectives remove g.constant 
-scoreboard objectives remove b.acaciaBoat 
-scoreboard objectives remove b.acaciaButton 
+scoreboard objectives remove g.constant
+
+#Broken
+scoreboard objectives remove b.acacia_boat
+scoreboard objectives remove b.acacia_button
 scoreboard objectives remove b.acaciaDoor 
 scoreboard objectives remove b.acaciaFence 
 scoreboard objectives remove b.acaciaFenceGte 
