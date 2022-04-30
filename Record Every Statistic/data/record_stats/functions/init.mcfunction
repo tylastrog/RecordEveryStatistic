@@ -2372,7 +2372,7 @@ scoreboard objectives add d.zombieHorse minecraft.killed_by:minecraft.zombie_hor
 scoreboard objectives add d.zombieVillager minecraft.killed_by:minecraft.zombie_villager "Killed by Zombie Villager"
 scoreboard objectives add d.zombifiedPiglin minecraft.killed_by:minecraft.zombified_piglin "Killed by Zombified Piglin"
 
-#Deaths
+#Killed
 scoreboard objectives add k.areaEffectCloud minecraft.killed:minecraft.area_effect_cloud "Area Effect Cloud Killed"
 scoreboard objectives add k.armorStand minecraft.killed:minecraft.armor_stand "Armor Stand Killed"
 scoreboard objectives add k.arrow minecraft.killed:minecraft.arrow "Arrow Killed"
@@ -4361,7 +4361,7 @@ scoreboard objectives add m.yellowTerracotta minecraft.mined:minecraft.yellow_te
 scoreboard objectives add m.yellowWallBanner minecraft.mined:minecraft.yellow_wall_banner "Yellow Wall Banner Mined"
 scoreboard objectives add m.yellowWool minecraft.mined:minecraft.yellow_wool "Yellow Wool Mined"
 scoreboard objectives add m.zombieHead minecraft.mined:minecraft.zombie_head "Zombie Head Mined"
-scoreboard objectives add m.zombieWallHead minecraft.mined:minecraft.zombie_wall_head "Zombie Wall Head Mined"#Mined
+scoreboard objectives add m.zombieWallHead minecraft.mined:minecraft.zombie_wall_head "Zombie Wall Head Mined"
 scoreboard objectives add m.acaciaButton minecraft.mined:minecraft.acacia_button "Acacia Button Mined"
 scoreboard objectives add m.acaciaDoor minecraft.mined:minecraft.acacia_door "Acacia Door Mined"
 scoreboard objectives add m.acaciaFence minecraft.mined:minecraft.acacia_fence "Acacia Fence Mined"
