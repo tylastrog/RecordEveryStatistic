@@ -1,4 +1,4 @@
-#Broken
+# Broken
 scoreboard objectives add b.acaciaBoat minecraft.broken:minecraft.acacia_boat "Acacia Boat Broken"
 scoreboard objectives add b.acaciaButton minecraft.broken:minecraft.acacia_button "Acacia Button Broken"
 scoreboard objectives add b.acaciaChestBoat minecraft.broken:minecraft.acacia_chest_boat "Acacia Chest Boat Broken"
@@ -2317,7 +2317,7 @@ scoreboard objectives add cu.cleanShulkerBox minecraft.custom:minecraft.clean_sh
 scoreboard objectives add cu.climbOneCm minecraft.custom:minecraft.climb_one_cm "Climb One Cm"
 scoreboard objectives add cu.constant dummy
 scoreboard objectives add cu.crouchOneCm minecraft.custom:minecraft.crouch_one_cm "Crouch One Cm"
-scoreboard objectives add cu.crouchTime minecraft.custom:minecraft.crouch_time "Crouch Time"
+scoreboard objectives add cu.crouchTime minecraft.custom:minecraft.sneak_time "Crouch Time"
 scoreboard objectives add cu.damageAbsorbed minecraft.custom:minecraft.damage_absorbed "Damage Absorbed"
 scoreboard objectives add cu.damageBlockedByShield minecraft.custom:minecraft.damage_blocked_by_shield "Damage Blocked By Shield"
 scoreboard objectives add cu.damageDealt minecraft.custom:minecraft.damage_dealt "Damage Dealt"
